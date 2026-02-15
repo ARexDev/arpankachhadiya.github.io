@@ -71,6 +71,21 @@ Collaborated with senior developers and team members to ensure smooth execution 
 
 Alongside structured training, I independently design and ship complete games — owning the full lifecycle from idea to deployment.
 
+- Completed a year-long, hands-on game development program focused on gameplay mechanics, logical programming, and real-time problem solving using Unity and C#.
+- Throughout the course, I developed multiple playable game prototypes.
+- Each was designed to explore and implement different game systems instead of just visuals.
+- I worked extensively on player movement systems, physics-based interactions, collision handling, scoring logic, health systems, enemy behavior, UI flow, and level progression mechanics.
+- I applied programming concepts such as state-based logic, event handling, and modular code design to keep gameplay systems scalable and easy to improve.
+- Each prototype followed a rapid build, test, debug, and improve cycle.
+- This process strengthened my skills in debugging, performance optimization, and gameplay balancing.
+- I learned to break down complex game ideas into smaller, manageable systems.
+- I also translated design concepts into functional, playable mechanics.
+- Alongside the course, I independently designed, developed, and published mobile games.
+- I took full ownership of the game lifecycle, from ideation and core mechanics to UI implementation, testing, optimization, and deployment on the Play Store.
+- I gained real-world experience working under constraints, iterating based on player behavior, and delivering a complete product instead of just prototypes.
+- This mix of structured training and independent development built a solid foundation in game logic, problem-solving, and end-to-end execution.
+- It prepared me to contribute effectively in fast-paced development environments.
+
 ### 🟣 Liquid Loop
 - Designed and developed from scratch
 - Implemented color sorting gameplay logic
