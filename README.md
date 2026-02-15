@@ -12,6 +12,8 @@ Experienced with Unity (C#), now actively working with Unreal Engine (C++) to st
 
 ## 🚀 Skills
 
+- AI Prompting
+- Faster and Efficient Problem Solving through AI
 - Unity Development
 - Unreal Engine (C++)
 - C# Programming
